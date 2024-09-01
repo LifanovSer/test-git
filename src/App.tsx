@@ -4,14 +4,14 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(100)
 
   return (
     <>
      <div className='wrapper'>
-      <div className="child"></div>
-      <div className="child"></div>
-      <div className="child"></div>
+      <div className="child">123</div>
+      <div className="child">456</div>
+      <div className="child">789</div>
       <div className="child"></div>
       <div className="child"></div>
       <div className="child"></div>
