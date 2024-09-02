@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 
 function App() {
@@ -17,6 +17,7 @@ function App() {
       <div className="child">4444444</div>
       <div className="child">890</div>
       <div className="child">999999999999999999999999999999999</div>
+      <div className="child">34343434343434344</div>
      </div>
     </>
   )
